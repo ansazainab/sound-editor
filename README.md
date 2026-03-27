@@ -9,7 +9,7 @@ This is a command-line based sound editor written in C. It allows users to load,
 - Detect and identify potential ads or noise segments within a track.
 - Save edited audio back into a WAV file format.
 
-# Running the Game
+# Running the Program
 
 # Prerequisites
 - GCC Compiler: Required to compile the C source files.
